@@ -1,0 +1,3 @@
+[submodule "BulkEmailProject"]
+	path = BulkEmailProject
+	url = ./BulkEmailProject/
